@@ -1,0 +1,10 @@
+.b{
+    border: solid 3px blue;
+    background-color: white;
+}
+@media (max-width:450px) {
+    .button-basghqaruvi{
+        width: 306px;
+        height: 56px;
+    }
+}
